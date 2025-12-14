@@ -1,2 +1,11 @@
-# Ecg-detection
-2025 ecg detection on clothes
+### 第三个项目：ECG 检测（进行中）
+
+## 项目简介
+本项目使用深度学习与开放世界学习方法进行 ECG 信号分类。我们采用 ResNet 网络，并结合对比学习算法来提升模型在未知 ECG 类别上的适应能力。
+## 项目结构
+ecg/
+├── base/            # 基于 ResNet 的 ECG 分类
+├── open-world/      # 开放世界学习方法
+
+
+
