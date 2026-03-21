@@ -6,6 +6,6 @@
 ecg/
 ├── base/            # 基于 ResNet 的 ECG 分类
 ├── open-world/      # 开放世界学习方法
-
+├── open-ecg/        # 开放世界 ecg分类方法
 
 
